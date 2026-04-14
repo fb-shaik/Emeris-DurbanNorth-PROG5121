@@ -8,8 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 /**
  * This class tests the functionality of the AccessValidator class.
- * 
- * Purpose:
+ 
  * - To verify that access control logic behaves correctly under different conditions.
  * - Each test isolates a specific scenario (positive, negative, and message validation).
  */
