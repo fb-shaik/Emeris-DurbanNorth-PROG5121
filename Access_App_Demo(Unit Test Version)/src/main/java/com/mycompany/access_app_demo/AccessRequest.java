@@ -6,7 +6,7 @@ package com.mycompany.access_app_demo;
  * ============================================
  * This class represents a request to enter
  * a restricted archive system.
- *
+ 
  * It is a DATA CLASS (Object in OOP).
  *
  * WHY THIS MATTERS:
